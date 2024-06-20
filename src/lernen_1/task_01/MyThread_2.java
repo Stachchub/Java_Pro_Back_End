@@ -11,5 +11,6 @@ public class MyThread_2 implements Runnable {
             }
             System.out.println("Thread 2: " + Thread.currentThread().getName() + " __ "  + i);
         }
+
     }
 }

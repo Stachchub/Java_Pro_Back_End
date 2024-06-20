@@ -12,5 +12,6 @@ public class MyThread_1 extends Thread {
             }
             System.out.println("Thread 1: " + Thread.currentThread().getName() + " __ "  + i);
         }
+
     }
 }

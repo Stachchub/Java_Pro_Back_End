@@ -6,5 +6,6 @@ public class MyThread extends Thread{
         for (int i = 0; i < 1_000_000; i++) {
             Main.counter++;
         }
+
     }
 }
